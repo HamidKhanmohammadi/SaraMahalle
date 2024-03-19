@@ -1,0 +1,12 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme.Light" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily">@font/farsi</item>
+        <item name="colorAccent">#298f46</item>
+    </style>
+
+    <style name="AppTheme.Dark" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:fontFamily">@font/farsi</item>
+        <item name="colorAccent">#ffd800</item>
+    </style>
+</resources>
